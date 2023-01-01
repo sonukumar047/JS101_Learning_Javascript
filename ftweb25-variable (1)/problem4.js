@@ -1,0 +1,15 @@
+let name= "Sonu Kumar";
+let school= "Masai School";
+let grade= "A";
+let section= "Web_25";
+let rollno="fp10_104";
+let html= 90;
+let css= 95;
+let js= 93;
+let total= html+css+js;
+console.log("Name :",name);
+console.log("School :",school);
+console.log("Grade :",grade);
+console.log("Section :",section);
+console.log("Roll No :",rollno);
+console.log("Total marks of three subject is",total);
